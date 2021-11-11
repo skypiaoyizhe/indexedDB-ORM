@@ -11,5 +11,6 @@
   },
   "author": "飘逸者",
   "license": "MIT",
-  "main": "./src/index.js"
+  "main": "./src/index.js",
+  "entry point": "./src/index.js"
 }
